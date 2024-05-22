@@ -10,7 +10,7 @@ function NavBar() {
             </div>
             <div className=" ml-auto flex space-x-4 mr-5">
                 <a href="#" className="text-white hover:bg-blue-700 px-3 py-2 rounded-md">Home</a>
-                <a href="#" className="text-white hover:bg-blue-700 px-3 py-2 rounded-md">Electronica</a>
+                <a href="#" className="text-white hover:bg-blue-700 px-3 py-2 rounded-md">Memoria Ram</a>
                 <a href="#" className="text-white hover:bg-blue-700 px-3 py-2 rounded-md">Soporte</a>
                 <a href="#" className="text-white hover:bg-blue-700 px-3 py-2 rounded-md">Contacto</a>
             </div>
